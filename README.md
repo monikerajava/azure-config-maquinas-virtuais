@@ -79,3 +79,6 @@ Um ponto importante é a escolha do runtime: cada linguagem pode exigir um SO es
    - D) Não pode ser usada com containers.  
    - E) Substitui todas as máquinas virtuais em produção.  
    **Resposta: C**
+
+## Links úteis
+Para ter acesso a documentação oficial do monitor Azure acesse https://learn.microsoft.com/pt-br/azure/azure-monitor

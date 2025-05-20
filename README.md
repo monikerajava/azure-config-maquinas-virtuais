@@ -50,7 +50,7 @@ Um ponto importante é a escolha do runtime: cada linguagem pode exigir um SO es
 
 ![Pool de Hosts](./imagens/host-pool.png)
 
-**Azure Functions Flow**:
+**Exemplo de Azure Functions Flow**:
 
 ![Azure Functions](./imagens/functions-components.png)
 
